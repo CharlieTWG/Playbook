@@ -84,7 +84,9 @@ _If what one has to say is not better than silence, then one should keep silent_
 
 If your objective is to learn from other people, it stands to reason that you should be spending the overwhelming majority of your interview listening. This may sound simple but it’s difficult to pull off in practice. You can fight your instinct to interject by deliberately practicing the act of letting people complete their thoughts \(Let her finish Kanye!\). When they are done speaking, count "one Mississippi, two Mississippi” before following up. You might also benefit from incorporating reminders to “let them do the talking” into your discussion guide.
 
-{% page-ref page="in-depth-interviews.md" %}
+**Learn more about listening during interviews:** 
+
+{% page-ref page="listening.md" %}
 {% endtab %}
 {% endtabs %}
 
@@ -96,10 +98,12 @@ Now go rinse-and-repeat!
 
 **Sources:**
 
-\*\*\*\*
-
-  
-
+```text
+McCammon, B. (n.d.). Semi-Structured Interviews. Retrieved from http://designresearchtechniques.com/casestudies/semi-structured-interviews/
+How to Conduct User Interviews. (n.d.). Retrieved from https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews
+Leading Questions. (n.d.). Retrieved from https://www.mediacollege.com/journalism/interviews/leading-questions.html
+The Big 6: An Active Listening Skill Set. (n.d.). Retrieved from https://www.ccl.org/multimedia/podcast/the-big-6-an-active-listening-skill-set/
+```
 
 **Further reading:** 
 
