@@ -8,5 +8,6 @@
 * [Listening](listening.md)
 * [Screening Participants](screener-questions.md)
 * [Research limitations: Time](research-limitations-time.md)
+* [Recommendations](making-recommendations.md)
 * [Personas](personas.md)
 
