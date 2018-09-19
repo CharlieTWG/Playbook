@@ -12,7 +12,7 @@ In practice, exploratory research does not live in a vacuum and your results wil
 
 To make your research count you’ll need to understand what your stakeholders know about your research problem and what they need out of the solution. One way of building that shared understanding of the problem is \(you guessed it!\) research. 
 
-All you’ll need is a simple interview guide and 20 minutes from your stakeholders. When building an understanding of your stakeholders’ needs you’ll want to focus on four key areas: the history of the &lt;feature, product, idea&gt; , the organization, the ****current condition of the &lt;feature, product, idea&gt;  and expectations from the research results.
+All you’ll need is a simple interview guide and at least 20 minutes from your stakeholders. When building an understanding of your stakeholders’ needs you’ll want to focus on four key areas: the history of the &lt;feature, product, idea&gt; , the organization, the ****current condition of the &lt;feature, product, idea&gt;  and expectations from the research results.
 
 {% tabs %}
 {% tab title="History " %}
@@ -60,13 +60,22 @@ Having built an understanding of your stakeholders, you’ll be better equipped 
 
 This activity is also serves the purpose of [involving stakeholders](https://www.producttalk.org/2018/06/managing-stakeholders/) in your research process. Including them from day one signals that you value their input and expertise, which builds trust and increases buy-in for future research activities. As your project progresses, you'll have many opportunities to involve your team in the various phases of your research, from the creation of your research objectives to synthesis activities. 
 
-### TWG Play: 
+### TWG Play 
 
 {% hint style="success" %}
 [Research Alignment Workshop ](https://twg-x-uxr.gitbook.io/plays/research-alignment-workshop): Use this play when developing your initial research strategy to collaboratively design your research plan around shared goals. 
 {% endhint %}
 
-#### **Further Reading:**  _****_[Questions to ask before starting user research](https://library.gv.com/questions-to-ask-before-starting-user-research-4607c2633f6f)  
+  
+**Further Reading**  
+[Questions to ask before starting user research](https://library.gv.com/questions-to-ask-before-starting-user-research-4607c2633f6f)   
+
+
+```text
+Sources
+Margolis, Michael. “Questions to Ask before Starting User Research – GV Library.” GV Library, GV Library, 18 Nov. 2011, library.gv.com/questions-to-ask-before-starting-user-research-4607c2633f6f.
+Torres, Teresa, et al. “The Art of Managing Stakeholders Through Product Discovery.” Product Talk, 5 June 2018, www.producttalk.org/2018/06/managing-stakeholders/.
+```
 
 
 
