@@ -32,9 +32,9 @@ Now that you've captured the attention of your audience, it's time to answer the
 * **Prioritized:** Identify the interventions that are most crucial and highlight the potential impacts of _not_ addressing them. Prioritize the recommendations that will deliver the most value for your users. 
 * **Flexible**: Your recommendations are suggested approaches, not commands. Remember, there are many possible ways to address a finding and this is the perfect opportunity leverage the expertise of your product team. 
 
-After you've delivered your findings and recommendations, facilitate a conversation with the product team and stakeholders aimed at creating action items. It's important to align on _which_ recommendations will move forward and _who_ will own these. 
-
 ### Discuss next steps
+
+After you've delivered your findings and recommendations, facilitate a conversation with the product team and stakeholders aimed at creating action items. It's important to align on _which_ recommendations will move forward and _who_ will own these. 
 
 **Sources:** 
 
