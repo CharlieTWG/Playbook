@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Stakeholders](stakeholder-interviews.md)
-* [Research limitations: Time](research-limitations-time.md)
+* [Time Management](research-limitations-time.md)
 * [Selection Criteria](participant-selection-criteria.md)
 * [In-Depth Interviews](in-depth-interviews.md)
 * [In-Depth Interview Techniques](in-depth-interview-techniques.md)
